@@ -1,27 +1,27 @@
-# Michelle Gore Portfolio Website
+Nish Methuku Portfolio
 
-A recreation of Michelle Gore's portfolio website showcasing her work as a Product Designer.
+Personal portfolio showcasing my work in AI engineering and software development.
 
-## Features
+Overview
 
-- Clean, modern design
-- Responsive layout for all devices
-- Smooth scrolling navigation
-- Animated project sections
-- Contact section with social links
+This site highlights selected projects, research, and experience in applied machine learning, backend systems, and full-stack development.
 
-## Files
+Tech
 
-- `index.html` - Main HTML structure
-- `styles.css` - Styling and responsive design
-- `script.js` - JavaScript for interactivity and animations
+HTML
+CSS
+JavaScript
 
-## How to Use
+Structure
 
-Simply open `index.html` in a web browser to view the website. No build process or dependencies required.
+index.html – Main site
 
-## Notes
+styles.css – Styling and layout
 
-- Video placeholders are included where videos would appear on the original site
-- Update the email address in the contact section with your own
-- Update social links as needed
+script.js – Animations and interactions
+
+images/ – Assets
+
+Usage
+
+Open index.html in a browser to view locally.
